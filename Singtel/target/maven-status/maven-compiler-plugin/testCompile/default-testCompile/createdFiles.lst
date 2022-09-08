@@ -1,3 +1,6 @@
-stepdefination\VueToDoStep.class
 classes\VueToDoPage.class
+classes\PageNotFound.class
+util\ReusableMethods.class
+classes\ReusableMethods.class
+stepdefination\VueToDoStep.class
 runner\CucumberTestNGRunner.class

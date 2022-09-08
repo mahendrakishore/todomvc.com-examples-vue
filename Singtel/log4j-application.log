@@ -1,0 +1,20 @@
+2022-09-09 01:25:22,543  INFO [main] VueToDoStep:96 - List : 0 value = Milk
+2022-09-09 01:25:22,559  INFO [main] VueToDoStep:96 - List : 1 value = Bread
+2022-09-09 01:33:34,158  INFO [main] VueToDoStep:96 - List : 0 value = Milk
+2022-09-09 01:33:34,176  INFO [main] VueToDoStep:96 - List : 1 value = Bread
+2022-09-09 01:40:34,388  INFO [main] VueToDoStep:96 - List : 0 value = Milk
+2022-09-09 01:40:34,395  INFO [main] VueToDoStep:96 - List : 1 value = Bread
+2022-09-09 01:43:47,814  INFO [main] VueToDoStep:96 - List : 0 value = Milk
+2022-09-09 01:43:47,851  INFO [main] VueToDoStep:96 - List : 1 value = Bread
+2022-09-09 02:03:14,340  INFO [main] VueToDoStep:96 - List : 0 value = Milk
+2022-09-09 02:03:14,348  INFO [main] VueToDoStep:96 - List : 1 value = Bread
+2022-09-09 02:05:25,251  INFO [main] VueToDoStep:96 - List : 0 value = Milk
+2022-09-09 02:05:26,178  INFO [main] VueToDoStep:96 - List : 1 value = Bread
+2022-09-09 02:13:05,344  INFO [main] VueToDoStep:113 - List : 0 value = Milk
+2022-09-09 02:13:05,624  INFO [main] VueToDoStep:113 - List : 1 value = Bread
+2022-09-09 02:13:05,839  INFO [main] VueToDoStep:127 - deleting the todolist task : Milk
+2022-09-09 02:13:07,521  INFO [main] VueToDoStep:127 - deleting the todolist task : Bread
+2022-09-09 02:26:51,523  INFO [main] VueToDoStep:113 - List : 0 value = Milk
+2022-09-09 02:26:51,538  INFO [main] VueToDoStep:113 - List : 1 value = Bread
+2022-09-09 02:26:51,538  INFO [main] VueToDoStep:113 - List : 2 value = Egg
+2022-09-09 02:26:51,981  INFO [main] VueToDoStep:151 - deleting all todolist task together
